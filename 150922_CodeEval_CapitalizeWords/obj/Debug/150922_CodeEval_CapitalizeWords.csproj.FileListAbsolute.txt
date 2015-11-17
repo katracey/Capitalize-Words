@@ -1,0 +1,17 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150922_CodeEval_CapitalizeWords\150922_CodeEval_CapitalizeWords\bin\Debug\150922_CodeEval_CapitalizeWords.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150922_CodeEval_CapitalizeWords\150922_CodeEval_CapitalizeWords\bin\Debug\150922_CodeEval_CapitalizeWords.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150922_CodeEval_CapitalizeWords\150922_CodeEval_CapitalizeWords\bin\Debug\150922_CodeEval_CapitalizeWords.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150922_CodeEval_CapitalizeWords\150922_CodeEval_CapitalizeWords\obj\Debug\150922_CodeEval_CapitalizeWords.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150922_CodeEval_CapitalizeWords\150922_CodeEval_CapitalizeWords\obj\Debug\150922_CodeEval_CapitalizeWords.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150922_CodeEval_CapitalizeWords\150922_CodeEval_CapitalizeWords\obj\Debug\150922_CodeEval_CapitalizeWords.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week3 - Strings & Text, Numeral Systems, Methods, Recursion\150922_CodeEval_CapitalizeWords\150922_CodeEval_CapitalizeWords\bin\Debug\150922_CodeEval_CapitalizeWords.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week3 - Strings & Text, Numeral Systems, Methods, Recursion\150922_CodeEval_CapitalizeWords\150922_CodeEval_CapitalizeWords\obj\Debug\150922_CodeEval_CapitalizeWords.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week3 - Strings & Text, Numeral Systems, Methods, Recursion\150922_CodeEval_CapitalizeWords\150922_CodeEval_CapitalizeWords\obj\Debug\150922_CodeEval_CapitalizeWords.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week3 - Strings & Text, Numeral Systems, Methods, Recursion\150922_CodeEval_CapitalizeWords\150922_CodeEval_CapitalizeWords\bin\Debug\150922_CodeEval_CapitalizeWords.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week3 - Strings & Text, Numeral Systems, Methods, Recursion\150922_CodeEval_CapitalizeWords\150922_CodeEval_CapitalizeWords\bin\Debug\150922_CodeEval_CapitalizeWords.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150922_CodeEval_CapitalizeWords\150922_CodeEval_CapitalizeWords\bin\Debug\150922_CodeEval_CapitalizeWords.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150922_CodeEval_CapitalizeWords\150922_CodeEval_CapitalizeWords\obj\Debug\150922_CodeEval_CapitalizeWords.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150922_CodeEval_CapitalizeWords\150922_CodeEval_CapitalizeWords\obj\Debug\150922_CodeEval_CapitalizeWords.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150922_CodeEval_CapitalizeWords\150922_CodeEval_CapitalizeWords\bin\Debug\150922_CodeEval_CapitalizeWords.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150922_CodeEval_CapitalizeWords\150922_CodeEval_CapitalizeWords\bin\Debug\150922_CodeEval_CapitalizeWords.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150922_CodeEval_CapitalizeWords\150922_CodeEval_CapitalizeWords\obj\Debug\150922_CodeEval_CapitalizeWords.csprojResolveAssemblyReference.cache
